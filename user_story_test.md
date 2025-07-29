@@ -1,4 +1,4 @@
-QIMRB user story markdown test
+Sample user story markdown test
 
 | ID | Requirement type | Category | Applicable Persona \- *refer Personas tab for definitions* | I want | so that | Value/Priority |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
